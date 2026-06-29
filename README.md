@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyasggowda/My-Leetcode-Journey/tree/master/0054-spiral-matrix) |
+| [2574-left-and-right-sum-differences](https://github.com/shreyasggowda/My-Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyasggowda/My-Leetcode-Journey/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/shreyasggowda/My-Leetcode-Journey/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
